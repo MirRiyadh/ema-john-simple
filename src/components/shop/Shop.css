@@ -1,0 +1,13 @@
+.shop-conatiner {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  margin: auto;
+}
+
+.products-conatiner {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 100px;
+  padding: 0 4%;
+}

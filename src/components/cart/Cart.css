@@ -1,0 +1,8 @@
+.cart-container {
+  background-color: #ffe0b3;
+  margin-left: 40%;
+  height: 95vh;
+  position: sticky;
+  right: 0;
+  top: 80px;
+}
